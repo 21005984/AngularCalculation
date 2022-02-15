@@ -206,9 +206,9 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 })
 export class AppModule { }
 ```
-
 ## OUTPUT:
 
 
 
 ## Result:
+The webpage for mathematical calculation is successfully created using angular.
